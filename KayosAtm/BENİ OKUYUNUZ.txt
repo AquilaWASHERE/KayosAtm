@@ -10,4 +10,3 @@ ATM özellikleri:
 • Hesap oluşturma ekranında bütün kısımları doldurmak zorundasınız, aksi takdirde formu tamamlayamazsınız.
 • Şifrenizi değiştirebilirsiniz.
 • Hesap özetinizi kontrol edebilirsiniz.
-
